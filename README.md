@@ -1,1 +1,1 @@
-# js1
+# https://severyn.github.io/js1/
